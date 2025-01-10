@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zyChen
-- 👀 I’m interested in 前端
+- 👀 I’m interested in 前端～
 - 🌱 I’m currently learning 前端工程化、代码与体积优化...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 🐧:2252658983
